@@ -1,1 +1,1 @@
-cuenta,movimiento,fecha,valor,concepto,importe,registro,coincidencia,diferencia,estado
+cuenta,movimiento_bancario,registro_interno,fecha,fecha_valor,concepto,importe_bancario,importe_interno,moneda,fuente_banco,fuente_registro,coincidencia,diferencia,estado
